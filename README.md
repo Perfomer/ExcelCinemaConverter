@@ -1,4 +1,4 @@
-# ExcelCinemaConverter
+# Excel Cinema Converter (2017)
 Converter for Cinema License Service of Russian Federation
 
 ## Used technologies
